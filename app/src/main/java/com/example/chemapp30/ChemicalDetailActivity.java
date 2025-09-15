@@ -41,5 +41,5 @@ public class ChemicalDetailActivity extends AppCompatActivity {
                     txtProperty.setText("คุณสมบัติ: " + chem.getProperty());
                     txtFirstAid.setText("ปฐมพยาบาล: " + chem.getFirstAid());
                 }
-    }
+     }
 }

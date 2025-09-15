@@ -32,8 +32,6 @@ public class ScanOrSearchActivity extends AppCompatActivity {
             return insets;
         });
 
-                setContentView(R.layout.activity_scan_or_search);
-
                 edtCode = findViewById(R.id.edtCode);
                 btnSearch = findViewById(R.id.btnSearch);
                 btnScan = findViewById(R.id.btnScan);
